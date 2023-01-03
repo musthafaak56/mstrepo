@@ -1,0 +1,22 @@
+body
+{
+    margin: 0px;
+}
+header
+{
+    background-color: rgb(31, 99, 246);
+    height: 60px;
+}
+#flipkartlogo
+{
+    width: 90px;
+    padding-top: 0px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.hdlinks
+{
+    color: white;
+    text-decoration: none;
+    margin-left: 35px;
+}
